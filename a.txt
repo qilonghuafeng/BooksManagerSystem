@@ -1,0 +1,17 @@
+hello worl
+
+dowho
+
+end
+
+restart
+
+
+
+end
+:q
+
+reset
+
+end:wq
+
